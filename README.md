@@ -1,5 +1,7 @@
 # skill-gate
 
+**English** | [简体中文](./README.zh-CN.md)
+
 > A decision gate for one question every agent team eventually faces:
 > **"Should this become a skill?"**
 > The default answer is **no** — and this skill makes that answer enforceable.
